@@ -20,9 +20,6 @@ The goal of this project is to improve user experience by providing personalized
 
 - Python
 - OpenCV
-- MediaPipe
-- Keras
-- Streamlit
 - Pandas
 - NumPy
 
@@ -72,12 +69,6 @@ The goal of this project is to improve user experience by providing personalized
 - Business Insights
 
 ## Future Enhancements
-
-- Spotify API Integration
-- Advanced Recommendation Engine
-- User History Tracking
-- Sentiment Analysis
-- Dashboard Development
 
 ## Author
 
